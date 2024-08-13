@@ -1,1 +1,3 @@
-# ed1-03n12-2024-2
+# Estrutura de Dados I - 03N12 (2024.2)
+
+Repositório "backup".
